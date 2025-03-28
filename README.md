@@ -1,16 +1,19 @@
-## Hi there 👋
+# islalowe.github.io
 
-<!--
-**islalowe/islalowe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Coding and Hobbies
 
-Here are some ideas to get you started:
+I enjoy coding projects that solve problems that I want to be solved in my daily life. My other hobbies involve outdoor sports like climbing and snowboarding, which I enjoy because of the skill and creativity involved.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Career Goals
+
+I am a student at Seattle Pacific University with goals to work in encrypted satellite communication, and with an interest in creative start-ups.
+
+## Classes this Quarter
+
+
+| Course Number | Course Name                           |
+| ------------- | --------------------                  |
+| CSC 3321      | Netcentric Computing                  |
+| DAT 4500      | Data and Society                      |
+| CSC 3150      | Systems Design                        |
+| JRN 4894      | Media Law and Ethics                  |
